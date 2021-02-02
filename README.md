@@ -3,12 +3,13 @@
 <h2   align="center">🎓
     Graduação em Tecnologia da Informação e Comunicação💻</h2>
  <p align="center">
-    <a href="pagina">
-        <img src="logo" alt="faeterj-logo">
+    <a href="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo5">
+        <img src="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo5/blob/main/img/faeterj-logo.jpg" alt="faeterj-logo">
     </a>
     </p>
 <h3 align="center">
     Disciplina de POO-Programação Orientada a Objetos em C++</h3>
+
 
 
 
@@ -27,7 +28,7 @@
 
 
 
-![01-equipe_produto]()
+![01-equipe_produto](https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo5/blob/main/img/img-cod.jpg)
 
 
 
